@@ -1,7 +1,6 @@
 #the beginning of .gitignore
 
 # Built application files
-*.apk
 *.ap_
 
 # Files for the Dalvik VM
@@ -42,14 +41,5 @@ proguard/
 # Android Studio captures folder
 captures/
 map.txt
-
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-
-#Android buildTool
-buildTool/repo/
-buildTool/channelApkBuild/build/
 
 #the end of .gitignore
