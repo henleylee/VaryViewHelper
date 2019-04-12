@@ -1,4 +1,4 @@
-package com.liyunlong.varyview.interfaces;
+package com.henley.varyview.interfaces;
 
 import android.content.Context;
 import android.support.annotation.LayoutRes;
@@ -7,7 +7,7 @@ import android.view.View;
 /**
  * 有数据、无数据、加载中、加载失败、无网络、网络不佳页面切换辅助类接口
  *
- * @author liyunlong
+ * @author Henley
  * @date 2016/11/17 16:32
  */
 public interface IVaryViewHelper {

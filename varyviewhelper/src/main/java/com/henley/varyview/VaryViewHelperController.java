@@ -1,15 +1,15 @@
-package com.liyunlong.varyview;
+package com.henley.varyview;
 
 import android.view.View;
 
-import com.liyunlong.varyview.interfaces.IVaryViewHelper;
-import com.liyunlong.varyview.interfaces.IVaryViewHelperController;
+import com.henley.varyview.interfaces.IVaryViewHelper;
+import com.henley.varyview.interfaces.IVaryViewHelperController;
 
 
 /**
  * 有数据、无数据、加载中、加载失败、无网络、网络不佳页面切换控制器
  *
- * @author liyunlong
+ * @author Henley
  * @date 2016/11/17 17:02
  */
 public class VaryViewHelperController implements IVaryViewHelperController {

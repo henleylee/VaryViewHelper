@@ -1,4 +1,4 @@
-package com.liyunlong.varyview.demo;
+package com.henley.varyview.demo;
 
 import android.graphics.Color;
 import android.os.Bundle;
@@ -12,8 +12,8 @@ import android.widget.GridView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.liyunlong.varyview.OverlapVaryViewHelper;
-import com.liyunlong.varyview.VaryViewHelperController;
+import com.henley.varyview.OverlapVaryViewHelper;
+import com.henley.varyview.VaryViewHelperController;
 
 import java.util.Arrays;
 

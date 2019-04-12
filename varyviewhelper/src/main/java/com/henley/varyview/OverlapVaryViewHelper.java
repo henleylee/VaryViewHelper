@@ -1,4 +1,4 @@
-package com.liyunlong.varyview;
+package com.henley.varyview;
 
 import android.content.Context;
 import android.support.annotation.LayoutRes;
@@ -6,13 +6,13 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
 
-import com.liyunlong.varyview.interfaces.IVaryViewHelper;
+import com.henley.varyview.interfaces.IVaryViewHelper;
 
 
 /**
  * 有数据、无数据、加载中、加载失败、无网络、网络不佳页面切换辅助类(重叠)
  *
- * @author liyunlong
+ * @author Henley
  * @date 2016/11/17 18:03
  */
 public class OverlapVaryViewHelper implements IVaryViewHelper {
